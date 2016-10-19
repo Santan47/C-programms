@@ -1,6 +1,5 @@
 #include<stdio.h>
 #define max 5
-
 void insert();
 void delete();
 void display();

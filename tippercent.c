@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<math.h>
 int main() {
-   double mealCost;
+   float mealCost;
 int tipPercent,taxPercent;
 int totalCost;
 float tip,tax;
