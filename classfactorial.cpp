@@ -22,3 +22,4 @@ factorial fact;
 fact.output();
 return 0;
 }
+}
